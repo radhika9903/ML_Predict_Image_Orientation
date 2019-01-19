@@ -1,6 +1,7 @@
 '''
  Authors:
- Radhika Kulkarni: Nearest Neighbor and Neural Network 
+ Radhika Kulkarni: Nearest Neighbor and Neural Network
+ 
  Aniruddha Godbole: Adaboost and Best/Fourth model 
 
  This programs finds the correct orientation for an image file.
